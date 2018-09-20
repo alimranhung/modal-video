@@ -32,7 +32,8 @@ yarn add modal-video
 ```
 
 ### js use
-$(".your-element").modalVideo();
+```$(".your-element").modalVideo();
+```
 
 
 ```js
