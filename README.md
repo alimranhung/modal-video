@@ -25,13 +25,13 @@ yarn add modal-video
 
 ## Short Sample
 
-### Basic
+### HTML Basic
 
 ```html
 <button class="js-modal-btn" data-video-id="XJS_UYNq4No">Open Video</button>
 ```
 
-### js use
+### How to js use
 ```
 $(".your-element").modalVideo();
 ```
