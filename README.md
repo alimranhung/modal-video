@@ -24,7 +24,7 @@ yarn add modal-video
 ```
 
 ## Short Sample
-#Call for your file
+### Call for your file
 ```
 modal-video.min.css
 jquery-modal-video.min.js
